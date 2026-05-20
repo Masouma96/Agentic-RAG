@@ -1,0 +1,11 @@
+Upload PDF,Enter your question,Answer,timestamp
+.gradio\flagged\Upload PDF\053cbc59203900e57106\assignment.pdf,tell me what is step 2,"**Step 2 – Intent Recognition Optimization**
+
+- **What it is**:  
+  The second step focuses on improving the bot’s ability to correctly identify user intents. It involves two main tactics:
+
+  1. **Expanding training data** for the top five “problematic” intents that are most frequently mis‑classified or trigger fallbacks.  
+  2. **Tuning confidence thresholds** so the bot can decide more accurately when it is sure enough to act on an intent versus when to ask for clarification.
+
+- **Why it matters**:  
+  By closing vocabulary gaps and raising the bot’s confidence in recognizing intents, the fallback rate (the number of times the bot says “I don’t understand”) is reduced. This directly helps the overall conversation flow, but it must be balanced carefully because overly aggressive threshold lowering can lead to false positives, potentially increasing turn length if users have to correct the bot.",2026-05-20 10:55:25.380697
