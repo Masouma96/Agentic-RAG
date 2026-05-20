@@ -69,7 +69,7 @@ Retrieve     Generate
 ## 🧪 Run Locally
 
 ```bash
-git clone https://github.com/your-username/agentic-rag.git
+git clone https://github.com/Masouma96/Agentic-RAG.git
 cd agentic-rag
 
 python -m venv venv
